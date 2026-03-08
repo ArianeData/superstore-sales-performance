@@ -74,7 +74,7 @@ This investigation suggested that the decline was likely due to a **product mix 
 - A small number of customers contribute a large share of total revenue.
 - Seasonal patterns exist in monthly sales performance.
 
---
+---
 
 ## Business Recommendations
 
