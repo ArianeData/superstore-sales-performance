@@ -12,6 +12,16 @@ All financial values in this project are expressed in **USD ($)**, as the datase
 
 ---
 
+## Executive Summary
+
+This project analyzes retail sales data from the Superstore dataset to understand revenue drivers, profitability patterns, and customer contributions.
+
+The analysis reveals that Technology products generate the highest revenue and profit, while the West region shows the strongest overall performance. A temporary decline in sales between 2014 and 2015 was investigated and linked to a product mix shift toward lower-priced items.
+
+An interactive Excel dashboard was built to allow users to explore sales trends, regional performance, customer contribution, and seasonal patterns.
+
+---
+
 ## Business Problem
 Retail companies generate large volumes of transactional data but often struggle to extract meaningful insights.
 
